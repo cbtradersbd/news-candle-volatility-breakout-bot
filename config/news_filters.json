@@ -1,0 +1,17 @@
+{
+  "engine": "News Breakout Sentinel",
+  "version": "3.5.0",
+  "impact_levels": [
+    "HIGH",
+    "CRITICAL"
+  ],
+  "tracked_currencies": [
+    "USD",
+    "EUR",
+    "GBP",
+    "JPY"
+  ],
+  "pre_news_freeze_minutes": 5,
+  "spike_window_seconds": 120,
+  "max_allowed_martingale": 1
+}
