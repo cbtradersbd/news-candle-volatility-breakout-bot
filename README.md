@@ -48,7 +48,7 @@ python examples/simulate_nfp_breakout.py
 
 ---
 
-## 🌐 CB Traders BD Ecosystem — Explore All Broker APIs & Bots
+## 🌐 CB Traders BD Ecosystem : Explore All Broker APIs & Bots
 
 Cross-platform algorithmic trading, real-time WebSocket feeds, and AI signal engines:
 
